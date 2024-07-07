@@ -1,0 +1,17 @@
+############################
+## CHANGE THESE
+############################
+
+baseURL: ''
+title: 'Hugo Test'
+
+############################
+## MISC
+############################
+
+enableEmoji: true
+disableKinds: ['taxonomy', 'term']
+languageCode: 'en-us'
+timeout: '300s'
+
+
